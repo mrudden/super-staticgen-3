@@ -41,7 +41,7 @@ if __name__ == "__main__":
             if line_count is len(input_file_contents):
                 output_string = output_string + line
             else:
-                output_string = output_string + line + "<br>"
+                output_string = output_string + line + "<br>\n"
 
         print(output_string)
 
