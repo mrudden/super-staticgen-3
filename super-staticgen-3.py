@@ -5,8 +5,9 @@
 import os
 
 if __name__ == "__main__":
-    print("Compiling site into \"public\" folder)
+    print("Compiling site from \"build_files\" into \"public\" folder")
 
-    build_path = 'build/'
+    build_path = 'build_files/'
     
     for filename in os.listdir(build_path):
+        print(filename)
