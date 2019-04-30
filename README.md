@@ -1,5 +1,5 @@
 # super-staticgen-3
-[![Python](https://img.shields.io/badge/python-3.7.1-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/python-3-blue.svg)](https://www.python.org/)
 
 ## How to use
 1. Create markdown files in the "site_files" folder
