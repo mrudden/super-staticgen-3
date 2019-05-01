@@ -15,3 +15,6 @@ Please note that this is a work-in-progress, and will be added to over time.
 ## Templates
 * Located in config/template
 * Currently there's only a base.html template that draws from some bootstrap examples
+
+## Feature requests
+* Please open an issue on GitHub! Thank you.
