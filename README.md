@@ -9,6 +9,6 @@ Please note that this is a work-in-progress, and will be added to over time.
 Markdown==3.1
 
 ## How to use
-1. Create markdown files in the "doc_files" folder
+1. Create markdown files in the "input_files" folder
 2. Run "super-staticgen-3.py"
 3. Publish output from the "public" folder.
