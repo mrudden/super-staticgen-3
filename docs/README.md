@@ -1,6 +1,6 @@
 # super-staticgen-3
 
-This isn't even my final form!
+_This isn't even my final form!_
 
 A Python 3 static site generation tool.
 
