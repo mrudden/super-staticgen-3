@@ -1,4 +1,5 @@
 # super-staticgen-3
+[![Python](https://img.shields.io/badge/python-3-blue.svg)](https://www.python.org/)
 
 A Python 3 static site generation tool.
 
