@@ -14,10 +14,10 @@ except:
     print("Check config/settings.py for title!")
 
 if __name__ == "__main__":
-    print("Compiling site from \"doc_files\" into \"public\" folder")
+    print("Compiling site from \"input_files\" into \"public\" folder")
 
     template_path = 'config/template/'
-    build_path = 'doc_files/'
+    build_path = 'input_files/'
     output_path = 'public/'
     
     for file_name in os.listdir(build_path):
